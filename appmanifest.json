@@ -2,7 +2,7 @@
 	"name": "Boxing Random",
 	"short_name": "Boxing Random",
 	"description": "",
-	"start_url": "index.html",
+	"start_url": "https://cdn.jsdelivr.net/gh/woodle87/boxes@main/index.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"background_color": "#ffffff",
